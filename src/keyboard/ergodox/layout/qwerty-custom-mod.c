@@ -66,21 +66,21 @@ KB_MATRIX_LAYER(
 	// unused
 	0,	
 	// left hand
-		KEY_LeftGUI,	KEY_1_Exclamation,	      KEY_2_At,	     KEY_3_Pound,	KEY_4_Dollar,	KEY_5_Percent,	1,	
-		    KEY_Tab,              KEY_q_Q,	       KEY_w_W,	         KEY_e_E,	     KEY_r_R,	      KEY_t_T,	KEY_Backslash_Pipe,	
+		KEY_LeftGUI,	KEY_1_Exclamation,	KEY_2_At,	KEY_3_Pound,	KEY_4_Dollar,	KEY_5_Percent,	KEY_LeftBracket_LeftBrace,	
+		KEY_Tab,	KEY_q_Q,	KEY_w_W,	KEY_e_E,	KEY_r_R,	KEY_t_T,	KEY_Backslash_Pipe,	
 		 KEY_Escape,	          KEY_a_A,	       KEY_s_S,	         KEY_d_D,	     KEY_f_F,	      KEY_g_G,	
-	  KEY_LeftShift,	          KEY_z_Z,	        KEY_x_X,	     KEY_c_C,	     KEY_v_V,	      KEY_b_B,	KEY_LeftBracket_LeftBrace,	
-	KEY_LeftControl,	      KEY_LeftAlt,	 KEY_VolumeDown,    KEY_VolumeUp,	 KEY_LeftGUI,	
+	  KEY_LeftShift,	0, 	          KEY_z_Z,	        KEY_x_X,	     KEY_c_C,	     KEY_v_V,	      KEY_b_B,	
+	 KEY_VolumeDown,    KEY_VolumeUp,	KEY_LeftControl,	      KEY_LeftAlt,	 KEY_LeftGUI,	
 																										 KEY_Dash_Underscore, KEY_GraveAccent_Tilde,	
 																						                   0,	            0,	      KEY_LeftArrow,	
 																						 KEY_DeleteBackspace, KEY_ReturnEnter,	     KEY_RightArrow,	
 	
 	// right hand
-	0,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_DeleteBackspace,	
+	KEY_RightBracket_RightBrace,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_DeleteBackspace,	
 	KEY_Slash_Question,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_SingleQuote_DoubleQuote,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_ReturnEnter,	
-	KEY_RightBracket_RightBrace,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	
-	0,	0,	KEY_RightGUI,	KEY_RightAlt,	KEY_RightControl,	
+	0,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	
+	KEY_RightAlt,	0,	KEY_RightGUI,	0,	KEY_RightControl,	
 	KEY_Equal_Plus, KEY_Backslash_Pipe,	
 	KEY_UpArrow,	0,	0,	
 	KEY_DownArrow,	KEY_ReturnEnter,	KEY_Spacebar	
