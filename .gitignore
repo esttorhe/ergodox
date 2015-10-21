@@ -1,1 +1,6 @@
 *.DS_Store
+build/.DS_Store
+src/.DS_Store
+src/keyboard/.DS_Store
+src/keyboard/ergodox/.DS_Store
+src/keyboard/ergodox/layout/.DS_Store
