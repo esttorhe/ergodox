@@ -23,7 +23,7 @@ include src/makefile-options
 
 # which layouts to compile (will override the variable in src/makefile-options)
 # --- default
-LAYOUT := qwerty-kinesis-mod
+LAYOUT := qwerty-custom-mod
 # --- all
 LAYOUTS := qwerty-kinesis-mod dvorak-kinesis-mod colemak-symbol-mod workman-p-kinesis-mod
 
@@ -53,12 +53,12 @@ SCRIPTS := build-scripts
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 
-.PHONY: all clean checkin build-dir firmware dist zip zip-all
+.PHONY: all clean build-dir firmware dist zip zip-all
 
 all: dist
 
 clean:
-	git clean -dX  # remove ignored files and directories
+	git clean -dXf  # remove ignored files and directories
 	-rm -r '$(BUILD)'
 
 checkin:
