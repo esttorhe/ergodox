@@ -88,9 +88,9 @@ GENDEPFLAGS += -MMD -MP -MF $@.dep  # generate dependency files
 # . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
-CC      := avr-gcc
-OBJCOPY := avr-objcopy
-SIZE    := avr-size
+CC      := /usr/local/CrossPack-AVR/bin/avr-gcc
+OBJCOPY := /usr/local/CrossPack-AVR/bin/avr-objcopy
+SIZE    := /usr/local/CrossPack-AVR/bin/avr-size
 
 
 # remove whitespace from some of the options
