@@ -66,9 +66,9 @@ KB_MATRIX_LAYER(
 	// unused
 	0,	
 	// left hand
-	KEY_LeftGUI,	KEY_1_Exclamation,	KEY_2_At,	KEY_3_Pound,	KEY_4_Dollar,	KEY_5_Percent,	KEY_LeftBracket_LeftBrace,	
+	KEY_Escape,	KEY_1_Exclamation,	KEY_2_At,	KEY_3_Pound,	KEY_4_Dollar,	KEY_5_Percent,	KEY_LeftBracket_LeftBrace,	
 	KEY_Tab,	KEY_q_Q,	KEY_w_W,	KEY_e_E,	KEY_r_R,	KEY_t_T,	KEY_Backslash_Pipe,	
-	KEY_Escape,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
+	KEY_CapsLock,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
 	KEY_LeftShift,	0,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	
 	KEY_VolumeDown,    KEY_VolumeUp,	KEY_LeftControl,	KEY_LeftAlt,	 KEY_LeftGUI,	
 	KEY_Dash_Underscore, KEY_GraveAccent_Tilde,	
