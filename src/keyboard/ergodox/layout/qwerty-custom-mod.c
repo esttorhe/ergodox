@@ -80,7 +80,7 @@ KB_MATRIX_LAYER(
 	KEY_Slash_Question,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_SingleQuote_DoubleQuote,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_ReturnEnter,	
 	0,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	
-	KEY_RightGUI,	KEY_RightAlt,	0,	0,	KEY_F8,	
+	KEY_RightGUI,	KEY_RightAlt,	0,	0,	KEY_Mute,	
 	KEY_Equal_Plus, KEY_Backslash_Pipe,	
 	KEY_UpArrow,	0,	0,	
 	KEY_DownArrow,	KEY_RightShift,	KEY_Spacebar	
