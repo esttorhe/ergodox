@@ -70,7 +70,7 @@ KB_MATRIX_LAYER(
 	KEY_Tab,	KEY_q_Q,	KEY_w_W,	KEY_e_E,	KEY_r_R,	KEY_t_T,	KEY_Backslash_Pipe,	
 	KEY_CapsLock,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
 	KEY_LeftShift,	0,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	
-	KEY_VolumeDown,	KEY_LeftControl,	KEY_LeftAlt,	KEY_VolumeUp,	KEY_LeftGUI,	
+	KEY_VolumeDown,	KEY_LeftControl,	KEY_LeftAlt,	KEY_LeftGUI,	KEY_VolumeUp,	
 	KEY_Dash_Underscore,	KEY_GraveAccent_Tilde,	
 	0,	0,	0,	
 	KEY_Spacebar,	KEY_ReturnEnter,	KEY_Mute,	
@@ -79,10 +79,10 @@ KB_MATRIX_LAYER(
 	KEY_GraveAccent_Tilde,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_SingleQuote_DoubleQuote,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_ReturnEnter,	
 	0x34,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_LeftShift,	
-	KEY_RightGUI,	KEY_LeftArrow,	KEY_UpArrow,	KEY_DownArrow,	KEY_RightArrow,	
+	KEY_RightGUI,	KEY_LeftArrow,	KEY_DownArrow,	KEY_UpArrow,	KEY_RightArrow,	
 	KEY_Equal_Plus,	KEY_Backslash_Pipe,	
 	1,	0,	0,	
-	1,	0x33,	KEY_Spacebar	
+	1,	KEY_Semicolon_Colon,	KEY_Spacebar	
 ),
 // LAYER 1
 KB_MATRIX_LAYER(
